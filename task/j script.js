@@ -35,5 +35,5 @@ function linebreak(breker){
 }
 function button(){
     let result=document.querySelectorAll(input)
-    console.log(res);
+    console.log(result);
 }
